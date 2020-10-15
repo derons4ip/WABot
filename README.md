@@ -1,6 +1,7 @@
 # WhatsappBOT :robot:
  - Send messages to any person in any time.
  - Just change the chromedriver or geckodriver location in WhatsappBot.py and enjoy it.
+<<<<<<< HEAD
  
  [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
 
@@ -38,6 +39,10 @@
 ```
  
 ## ScreenShot :camera_flash:
+=======
+
+*pip install -r requirements.txt
+>>>>>>> parent of a8c7f53... how to run added
 
 **1).** This is the Main Page of the application. First Option provides send as many messages as you want to a person. <br><br>
 ![github-small](images/Main.jpeg)
